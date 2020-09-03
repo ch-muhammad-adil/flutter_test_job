@@ -1,6 +1,14 @@
 # test_job
 
-A new Flutter application.
+A flutter test job to implement design UI provided by client.  
+
+Here design screenshots 
+![](/screenshots/Screenshot_home.png)
+![](/screenshots/Screenshot_bottom_sheet.png)
+![](/screenshots/Screenshot_calender.png)
+
+
+
 
 ## Getting Started
 
